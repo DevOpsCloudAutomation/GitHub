@@ -1,0 +1,23 @@
+
+
+Git Reset and Git Revert
+========================
+
+git log
+
+git log --oneline
+
+Git Reset
+=========
+Get Back Files from Staging Area to Working Directory.
+
+git reset
+Get All Files from Staging Area to Working Directory.
+
+git reset <File_Name>
+Get Particular Single file from Staging Area to Working Directory.
+
+Git Revert
+==========
+git revert <Commit_ID>
+Delete Files from Local Repository.
