@@ -27,8 +27,8 @@ git config --global user.email "Pavankumarkj347@Gmail.com"
 
 git config --list
 
-Create a Personal Access Token in GitHub and Add it in Local System.
-MacBook: KeyChain Access.
+Create a Personal Access Token in GitHub and Add it in Local System.\
+MacBook: KeyChain Access.\
 Windows: Credentials Manager.
 
 Note
@@ -52,11 +52,11 @@ git push origin <Branch_Name> - Add Files from Local Repository to Remote Reposi
 **YouTube Video**\
 https://youtu.be/e7dQ-wmOTS4?si=BGVlSa60bNBcmEFG
 
-## Git Reset and Git Revert\
+## Git Reset and Git Revert
 git log\
 git log --oneline
 
-### Git Reset\
+### Git Reset
 Get Back Files from Staging Area to Working Directory.
 
 git reset
@@ -65,6 +65,6 @@ Get All Files from Staging Area to Working Directory.
 git reset <File_Name>
 Get Particular Single file from Staging Area to Working Directory.
 
-### Git Revert\
+### Git Revert
 git revert <Commit_ID>
 Delete Files from Local Repository.
