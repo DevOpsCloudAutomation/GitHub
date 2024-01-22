@@ -3,8 +3,7 @@
 This projects explains about GitHub Concepts Theoritically and Practically.
 
 ## Git and GitHub
-**YouTube Video**
-
+**YouTube Video**\
 https://youtu.be/I4_NJoV92pQ?si=0KimLGCDJMa8h0MA
 
 ## Git Architecture and Git Stages
