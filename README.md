@@ -31,7 +31,7 @@ Create a Personal Access Token in GitHub and Add it in Local System.\
 MacBook: KeyChain Access.\
 Windows: Credentials Manager.
 
-Note
+Note\
 We Cannot Use Username and Password as GitHub Support for Password Authentication was Removed.
 
 ### Practical
