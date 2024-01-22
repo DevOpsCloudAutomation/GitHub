@@ -1,4 +1,3 @@
-
 # GitHub Concepts
 This projects explains about GitHub Concepts Theoritically and Practically.
 
@@ -22,8 +21,8 @@ https://youtu.be/0me1X5oWbfM?si=I39q9yf9d0OlEddM
 Git Should be Installed in System
 https://git-scm.com/download/
 
-GitHub Account Should be Created
-git config --global user.name "DevOpsCloudAutomation"
+GitHub Account Should be Created\
+git config --global user.name "DevOpsCloudAutomation"\
 git config --global user.email "Pavankumarkj347@Gmail.com"
 
 git config --list
@@ -53,14 +52,11 @@ git push origin <Branch_Name> - Add Files from Local Repository to Remote Reposi
 **YouTube Video**\
 https://youtu.be/e7dQ-wmOTS4?si=BGVlSa60bNBcmEFG
 
-## Git Reset and Git Revert
-
-git log
-
+## Git Reset and Git Revert\
+git log\
 git log --oneline
 
-### Git Reset
-
+### Git Reset\
 Get Back Files from Staging Area to Working Directory.
 
 git reset
@@ -69,7 +65,6 @@ Get All Files from Staging Area to Working Directory.
 git reset <File_Name>
 Get Particular Single file from Staging Area to Working Directory.
 
-### Git Revert
-
+### Git Revert\
 git revert <Commit_ID>
 Delete Files from Local Repository.
