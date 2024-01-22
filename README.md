@@ -20,7 +20,7 @@ https://youtu.be/0me1X5oWbfM?si=I39q9yf9d0OlEddM
 
 ## Commands to Push Code to Remote Repository
 
-Pre-Requisites
+**Pre-Requisites**
 
 Git Should be Installed in System
 https://git-scm.com/download/
