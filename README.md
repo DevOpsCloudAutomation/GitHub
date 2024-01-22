@@ -13,14 +13,12 @@ https://youtu.be/I4_NJoV92pQ?si=0KimLGCDJMa8h0MA
 3. Local Repository.
 4. Remote Repository - GitHub.
 
-**YouTube Video**
-
+**YouTube Video**\
 https://youtu.be/0me1X5oWbfM?si=I39q9yf9d0OlEddM
 
 ## Commands to Push Code to Remote Repository
 
-**Pre-Requisites**
-
+**Pre-Requisites**\
 Git Should be Installed in System
 https://git-scm.com/download/
 
@@ -39,29 +37,20 @@ We Cannot Use Username and Password as GitHub Support for Password Authenticatio
 
 ### Practical
 
-Create Remote Repository.
-
-Create a Project in Local System.
-
-Push Code to Remote Repository.
-
+Create Remote Repository.\
+Create a Project in Local System.\
+Push Code to Remote Repository.\
 Working Directory | Staging Area | Local Repository | Remote Repository
 
 ### Commands
-git init - Create Local Repository in Project.
-
-git status - Check Status of New and Modified Files.
-
-git add . - Add All Files from Working Directory to Staging Area.
-
-git commit -m <Commit_Messsage> - Move Files from Staging Area to Local Repository.
-
-git remote add origin <Remote_Repository_Url> - Add Remote Repository Url to .git Local Repository.
-
+git init - Create Local Repository in Project.\
+git status - Check Status of New and Modified Files.\
+git add . - Add All Files from Working Directory to Staging Area.\
+git commit -m <Commit_Messsage> - Move Files from Staging Area to Local Repository.\
+git remote add origin <Remote_Repository_Url> - Add Remote Repository Url to .git Local Repository.\
 git push origin <Branch_Name> - Add Files from Local Repository to Remote Repository.
 
-**YouTube Video**
-
+**YouTube Video**\
 https://youtu.be/e7dQ-wmOTS4?si=BGVlSa60bNBcmEFG
 
 ## Git Reset and Git Revert
