@@ -15,6 +15,7 @@ https://youtu.be/I4_NJoV92pQ?si=0KimLGCDJMa8h0MA
 4. Remote Repository - GitHub.
 
 **YouTube Video**
+
 https://youtu.be/0me1X5oWbfM?si=I39q9yf9d0OlEddM
 
 ## Commands to Push Code to Remote Repository
@@ -49,10 +50,15 @@ Working Directory | Staging Area | Local Repository | Remote Repository
 
 ### Commands
 git init - Create Local Repository in Project.
+
 git status - Check Status of New and Modified Files.
+
 git add . - Add All Files from Working Directory to Staging Area.
+
 git commit -m <Commit_Messsage> - Move Files from Staging Area to Local Repository.
+
 git remote add origin <Remote_Repository_Url> - Add Remote Repository Url to .git Local Repository.
+
 git push origin <Branch_Name> - Add Files from Local Repository to Remote Repository.
 
 **YouTube Video**
