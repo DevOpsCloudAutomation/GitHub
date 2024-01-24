@@ -10,7 +10,7 @@ https://youtu.be/I4_NJoV92pQ?si=0KimLGCDJMa8h0MA
 1. Working Directory.
 2. Staging Area.
 3. Local Repository.
-4. Remote Repository - GitHub.
+4. Remote Repository - GitHub and BitBucket.
 
 **YouTube Video**\
 https://youtu.be/0me1X5oWbfM?si=I39q9yf9d0OlEddM
