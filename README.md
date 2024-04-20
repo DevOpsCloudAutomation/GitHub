@@ -68,3 +68,27 @@ Get Particular Single file from Staging Area to Working Directory.
 ### Git Revert
 git revert <Commit_ID>
 Delete Files from Local Repository.
+
+**YouTube Video**\
+https://youtu.be/YPHDrtZU9cA?si=zF_DUuM3zCw3xcZ4
+
+## Git Clone, Git Pull and Git Fetch
+
+## Git Clone
+Download Project Code from Remote Repository [GitHub] to Working Directory.
+
+git clone <Repository_Url>
+
+## git Pull
+Get Latest Changes from Remote Repository [GitHub] to Working Directory.
+
+git pull origin <Branch_Name>
+
+## git Fetch
+Get Latest Changes from Repository to Local Repository.
+
+git fetch origin <Branch_Name>
+
+Merge Local Repository Changes with Working Directory.
+
+git merge origin/<Branch_Name>
