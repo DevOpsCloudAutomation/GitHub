@@ -1,0 +1,19 @@
+Get Latest Code Everyday from Master Branch – Merge Conflicts can be Avoided.
+
+Always Follow Git Branching Strategy and Work on Feature Branches.
+
+Do Not Ever Commit Incomplete Code.
+
+Always Commit Code on Daily Basis Once Task is Done.
+
+Execute Code and Check Before Committing Code to Remote Repository.
+
+Write Good Commit Message for Each Commit.
+
+Use Pull Request Process to Get You Changes Reviewed.
+
+Use Git Commands instead of GUI Tools.
+
+Avoid Merge Conflicts.
+
+Delete Feature Branches Once Code is Tested and Merged with Master Branch.
